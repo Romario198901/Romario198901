@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Romario198901
+- 👋 Hi, I’m @Roman Hrydin
 - 👀 I’m interested in HTML, CSS, Javascript, React.js, Node.js, React Native, Python
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m currently not looking to collaborate
