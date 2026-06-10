@@ -25,7 +25,10 @@ Git • GitHub • Postman • VS Code • Figma • Vercel • Render
 
 ## 💻 Featured Projects
 
-### 🚗 Rental Car(https://rental-car-three-chi.vercel.app/)
+### 🚗 Rental Car
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://rental-car-three-chi.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge)](https://github.com/Romario198901/rental-car)
 
 Car rental web application built with Next.js and TypeScript.
 
@@ -38,11 +41,16 @@ Car rental web application built with Next.js and TypeScript.
 
 **Tech Stack:** Next.js, TypeScript, React Query, Formik, Yup, CSS Modules
 
-🔗 Repository: https://github.com/Romario198901/rental-car
+
 
 ---
 
-### 🤰 Leleka(https://project-decodery-front.vercel.app/)
+### 🤰 Leleka
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)]((https://project-decodery-front.vercel.app/))
+[![Frontend](https://img.shields.io/badge/GitHub-Frontend-blue?style=for-the-badge&logo=github)](https://github.com/Oleksii996/project-decodery-front)
+[![Backend](https://img.shields.io/badge/GitHub-Backend-black?style=for-the-badge&logo=github)](https://github.com/Oleksii996/project-DeCodery-Back)
+
 
 Fullstack pregnancy assistant application developed as a team project.
 
@@ -55,13 +63,12 @@ Fullstack pregnancy assistant application developed as a team project.
 
 **Tech Stack:** Next.js, React, Node.js, Express, MongoDB, React Query, Zustand
 
-🔗 Frontend: https://github.com/Oleksii996/project-decodery-front
-
-🔗 Backend: https://github.com/Oleksii996/project-DeCodery-Back
-
 ---
 
-### 📝 NoteHub(https://09-auth-neon-ten.vercel.app/)
+### 📝 NoteHub
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://09-auth-neon-ten.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge)](https://github.com/Romario198901/09-auth)
 
 Application for creating, editing, and managing notes.
 
@@ -72,12 +79,16 @@ Application for creating, editing, and managing notes.
 - API integration
 - Responsive interface
 
-**Tech Stack:** React, TypeScript, REST API, React Router
-🔗 Repository: https://github.com/Romario198901/09-auth
+**Tech Stack:** React, Next.js TypeScript, REST API, Zustand
+
+
 
 ---
 
-### ☕ CoffeeJoy(https://riky-droyg.github.io/coffeejoy-project/)
+### ☕ CoffeeJoy
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://riky-droyg.github.io/coffeejoy-project/)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge)](https://github.com/Riky-Droyg/coffeejoy-project)
 
 Team project developed during Full Stack Development training.
 
@@ -87,9 +98,9 @@ Team project developed during Full Stack Development training.
 - Semantic HTML
 - Team collaboration using Git
 
-**Tech Stack:** JavaScript, HTML5, CSS3, SCSS
+**Tech Stack:** JavaScript, HTML5, CSS3
 
-🔗 Repository: https://github.com/Riky-Droyg/coffeejoy-project
+
 
 ---
 
